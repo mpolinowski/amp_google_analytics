@@ -4,7 +4,7 @@
 02. [Tracking ID](#02-tracking_id)
 03. [amp-analytics](#03-amp-analytics)
 04. [Search Console](04-search-console)
-05. []()
+05. [Search Console link to Google Analytics](05-search-console-link-to-google-analytics)
 
 ## 01 Set up Google Analytics
 
@@ -97,6 +97,9 @@ And add your new property to your Search Console (this page will **stay open in 
 
 
 You will then be asked to download an HTML file and upload it to the public /root directory of your website - to verify your ownership. Click on Verify and you are DONE!
+
+
+## 05 Search Console link to Google Analytics
 
 Now return to the previous page (still open in the background), refresh and select your new property - then click save:
 
