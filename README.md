@@ -35,7 +35,7 @@ Now we need to add the [AMP Analytics](https://www.ampproject.org/docs/reference
 <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 ```
 
-The tracking ID can now be implemented inside the <header> tag of your AMP page, by adding the <amp-analytics> component:
+The tracking ID can now be implemented inside the \<header\> tag of your AMP page, by adding the \<amp-analytics\> component:
 
 ```html
 <amp-analytics type="googleanalytics">
