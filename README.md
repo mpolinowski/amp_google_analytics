@@ -84,17 +84,30 @@ Click on "Edit":
 ---
 
 
-And add your new property to your Search Console:
+And add your new property to your Search Console (this page will **stay open in the background** and you will have to refresh it after you added your new property - **see final step**):
 
 
 ---
 ![](./GA_06.png)
 
 ![](./GA_07.png)
+
+![](./GA_08.png)
 ---
 
 
 You will then be asked to download an HTML file and upload it to the public /root directory of your website - to verify your ownership. Click on Verify and you are DONE!
 
+Now return to the previous page (still open in the background), refresh and select your new property - then click save:
+
+
+---
+![](./GA_09.png)
+
+![](./GA_10.png)
+---
+
+
+As seen above, your Property is now linked in Google Analytics and you will start to see search results in your reports.
 
 It might take a while for crawling information and potential Error Reports to arrive - give it a month... You will be notified by email if something was found in the need of fixing.
