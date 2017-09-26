@@ -11,7 +11,9 @@
 Create a Gmail account and log in to [Google Analytics](https://analytics.google.com). Open the admin panel and add a new property:
 
 
+---
 ![](./GA_01.png)
+---
 
 
 ## 02 Tracking ID
@@ -19,7 +21,9 @@ Create a Gmail account and log in to [Google Analytics](https://analytics.google
 Fill out the form and click to generate a Tracking ID - which will look something like this "UA-88888888-1":
 
 
+---
 ![](./GA_02.png)
+---
 
 
 ## 03 amp-analytics
@@ -58,27 +62,36 @@ Now we want to link our new property to the [Search Console](https://www.google.
 
 Go back Property Settings:
 
+
+---
 ![](./GA_03.png)
+---
 
 
 And scroll down to "Adjust Search Console":
 
 
+---
 ![](./GA_04.png)
+---
 
 
 Click on "Edit":
 
 
+---
 ![](./GA_05.png)
+---
 
 
 And add your new property to your Search Console:
 
 
+---
 ![](./GA_06.png)
 
 ![](./GA_07.png)
+---
 
 
 You will then be asked to download an HTML file and upload it to the public /root directory of your website - to verify your ownership. Click on Verify and you are DONE!
