@@ -28,7 +28,7 @@ Fill out the form and click to generate a Tracking ID - which will look somethin
 
 ## 03 amp-analytics
 
-Now we need to add the [AMP Analytics](https://www.ampproject.org/docs/reference/components/amp-analytics) script to our website inside the <head> tag:
+Now we need to add the [AMP Analytics](https://www.ampproject.org/docs/reference/components/amp-analytics) script to our website inside the \<head\> tag:
 
 
 ```html
